@@ -1,4 +1,4 @@
-import { OBJLoader } from './OBJLoader.js';
+import { OBJLoader } from 'https://github.com/mrdoob/three.js/blob/gh-pages/examples/jsm/loaders/OBJLoader.js';
 
 //Creating the scene
 
