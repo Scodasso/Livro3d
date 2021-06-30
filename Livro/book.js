@@ -1,4 +1,4 @@
-import { OBJLoader } from 'https://raw.githubusercontent.com/mrdoob/three.js/2297b1adbd4214c0c507c5d7dcfaff576c082046/examples/jsm/loaders/OBJLoader.js';
+//import { OBJLoader } from 'https://raw.githubusercontent.com/mrdoob/three.js/2297b1adbd4214c0c507c5d7dcfaff576c082046/examples/jsm/loaders/OBJLoader.js';
 
 //Creating the scene
 
