@@ -20,8 +20,7 @@ document.body.appendChild( renderer.domElement );
 // OBJ
 
 // instantiate a loader
-const loader = new OBJLoader();
-const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+const loader = new THREE.OBJLoader();
 
 // load a resource
 loader.load(
