@@ -26,7 +26,7 @@ const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 // load a resource
 loader.load(
 	// resource URL
-	'Livro/Livro.obj',
+	'Livro.obj',
 	// called when resource is loaded
 	function ( object ) {
 
