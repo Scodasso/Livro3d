@@ -1,4 +1,4 @@
-import { OBJLoader } from './jsm/loaders/OBJLoader.js';
+import { OBJLoader } from './OBJLoader.js';
 
 //Creating the scene
 
