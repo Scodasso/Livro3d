@@ -1,4 +1,4 @@
-import { OBJLoader } from 'https://scodasso.github.io/Livro3d/Livro/OBJLoader.js';
+import { OBJLoader } from 'three/examples/jsm/loaders/OBJLoader.js';
 
 //Creating the scene
 
