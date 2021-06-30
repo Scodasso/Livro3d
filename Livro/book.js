@@ -21,7 +21,7 @@ document.body.appendChild( renderer.domElement );
 // OBJ
 
 // instantiate a loader
-var loader = new THREE.OBJLoader();
+const loader = new OBJLoader();
 
 // load a resource
 loader.load(
